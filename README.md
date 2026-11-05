@@ -22,6 +22,13 @@
 
 ```bash
 # YOLO
+
+## About
+- **What it is:** An unchanged copy of OpenCode, an AI coding assistant that runs in the terminal.
+- **Business:** learning
+- **Status:** inactive since 2025-10
+- **Source:** agent research 2026-11-04
+
 curl -fsSL https://opencode.ai/install | bash
 
 # Package managers
